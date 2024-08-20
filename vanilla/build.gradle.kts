@@ -2,7 +2,7 @@ plugins {
     `kotlin-script`
 }
 
-val adventureVersion = "4.13.1"
+val adventureVersion = "4.17.0"
 dependencies {
     implementation("net.kyori:adventure-api:$adventureVersion")
     implementation("net.kyori:adventure-text-minimessage:$adventureVersion")
